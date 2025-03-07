@@ -7,6 +7,8 @@ import NavBar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Technologies from "./components/Technologies";
 
+
+
 function App() {
   return (
     <div className="overflow-x-hidden antialiased text-neutral-300">
