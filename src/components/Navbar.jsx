@@ -13,13 +13,11 @@ const NavBar = () => {
         <img className="h-14" src={Logo} alt="logo" />
       </div>
       <div className="text-white text-2xl flex items-center justify-center gap-4">
-        <FaLinkedin />
-        <FaGithub />
-        <FaSquareXTwitter />
-        <FaInstagram />
-        {/* <button  className="text-sm px-4 py-2 border rounded-lg transition-all duration-300 hover:bg-white hover:text-black">
-            Resume
-        </button> */}
+        <a href="https://www.linkedin.com/in/rakesh-m-0b64072b0/"><FaLinkedin /></a>
+        <a href="https://github.com/Rakeshm1218"><FaGithub /></a>
+        <button  className="text-sm px-4 py-2 border rounded-lg transition-all duration-300 hover:bg-white hover:text-black">
+            <a href="https://drive.google.com/file/d/1_I1vbR3Ov-ZX-1uoCcjtEb6vdb-IN4yO/view?usp=sharing" target="_blank">Resume</a>
+        </button>
       </div>
     </nav>
   );
