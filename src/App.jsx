@@ -17,9 +17,9 @@ function App() {
       <div className="container mx-auto px-8">
         <NavBar />
         <Hero/>
-        <Technologies/>
         <Experience/>
         <Projects/>
+        <Technologies/>
         <Contact/>
       </div>
       </div>
