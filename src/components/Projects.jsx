@@ -11,7 +11,7 @@ const Projects = () => {
             key={index}
             className="mb-8 flex items-center flex-wrap lg:justify-center"
           >
-            <div className="w-full lg:w-1/4 mb-2 flex flex-col items-center">
+            <div className="w-full lg:w-1/4 mb-6 flex flex-col items-center">
               <img
                 src={project.image}
                 alt={project.title}

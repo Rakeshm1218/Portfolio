@@ -25,7 +25,7 @@ export const PROJECTS = [
     year: "2024",
     image:project1,
     demo:"https://bookify-mern.vercel.app/",
-    git:"https://github.com/Rakeshm1218/mern-bookstore-client.git",
+    git:"https://github.com/Rakeshm1218/mern-bookstore-client",
     description:
       "Developed a MERN stack application to streamline book inventory, customer orders, and sales tracking. The system included features for managing and uploading book details, improving overall efficiency.",
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
@@ -35,7 +35,7 @@ export const PROJECTS = [
     year: "2024",
     image:project2,
     demo:"https://react-news-app-lilac.vercel.app/",
-    git:"https://github.com/Rakeshm1218/react-newsApp.git",
+    git:"https://github.com/Rakeshm1218/react-newsApp",
     description:
       "Developed 'DailyNews,' a React-based application leveraging the NewsAPI for real-time news fetching, showcasing API integration and frontend development skills.",
     technologies: ["React.js", "TailwindCSS", "RTK (Redux Toolkit)"],
